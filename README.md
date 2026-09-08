@@ -1,16 +1,48 @@
-# React + Vite
+---
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 2. 🌍 `TRAVELLOOP/README.md`
 
-Currently, two official plugins are available:
+Your current repository is definitely React + Vite and contains `src`, `public`, `tailwind.config.js`, `vite.config.js`, etc. 4
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+But because it's currently basically a starter/exploration project, **don't write fake features**.
 
-## React Compiler
+Use:
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+```markdown
+# 🌍 TravelLoop
 
-## Expanding the ESLint configuration
+TravelLoop is a travel-focused frontend project that I started while learning modern web development.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+The project is part of my journey from basic HTML/CSS development toward component-based frontend development with React.
+
+## 🎯 Purpose
+
+The main goal of this project is to:
+
+- Practice React fundamentals
+- Understand a modern frontend project structure
+- Learn how Vite is used in React projects
+- Experiment with frontend UI development
+- Improve my JavaScript and component-based development skills
+
+## 🛠️ Technologies
+
+- React
+- JavaScript
+- Vite
+- HTML
+- CSS
+- Tailwind CSS
+
+## 📁 Project Structure
+
+```text
+TRAVELLOOP/
+│
+├── public/
+├── src/
+├── index.html
+├── package.json
+├── vite.config.js
+├── tailwind.config.js
+└── README.md
