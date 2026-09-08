@@ -1,6 +1,6 @@
 ---
 
-# 2. 🌍 `TRAVELLOOP/README.md`
+#  🌍 `TRAVELLOOP/README.md`
 
 Your current repository is definitely React + Vite and contains `src`, `public`, `tailwind.config.js`, `vite.config.js`, etc. 4
 
